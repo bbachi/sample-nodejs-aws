@@ -1,0 +1,25 @@
+{
+  "name": "sample-nodejs-aws",
+  "version": "1.0.0",
+  "description": "Sample project on how to use AWS SDK in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbachi/sample-nodejs-aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbachi/sample-nodejs-aws/issues"
+  },
+  "homepage": "https://github.com/bbachi/sample-nodejs-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.678.0",
+    "express": "^4.17.1"
+  }
+}
