@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bbachi/sample-nodejs-aws#readme",
   "dependencies": {
-    "aws-sdk": "^2.678.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1"
   }
 }
